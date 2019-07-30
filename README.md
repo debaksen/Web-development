@@ -6,3 +6,4 @@ This repository contains all of my personal web development projects. They're al
     This website was created in about 3-4 days.
     
     The website is live at : [GitHub Pages](https://debaksen.github.io/Web-development/).
+    [I'm an inline-style link](https://www.google.com)
